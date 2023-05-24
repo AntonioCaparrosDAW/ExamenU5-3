@@ -1,2 +1,2 @@
 versión original
-v1
+v2: nueva feature completada
